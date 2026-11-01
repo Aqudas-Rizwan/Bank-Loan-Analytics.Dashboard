@@ -17,7 +17,7 @@ This project provides comprehensive insights into bank lending operations. It he
 ![Overview Dashboard](overview.png)
 
 ### Summary Dashboard
-![Summary Dashboard](summary.png)
+![Summary Dashboard](summary%20(2).png)
 
 ## 🛠️ Tech Stack & Tools
 * **Data Visualization:** Power BI Desktop
